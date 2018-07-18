@@ -24,6 +24,9 @@
     <ClCompile Include="Pointer_Example_withTables.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="exampleofNEWuse.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Header.h">

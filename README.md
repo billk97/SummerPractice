@@ -19,3 +19,8 @@
 > * **BBS** uninitialized memory space
 > * **heap /σωρος** dynamic memory initialazation (new)
 > * **call stack /stoiba** for local variables and function calls 
+
+* keep in mind that in c and c ++ the defult value of a variable is nothing 
+> * int c ;
+> - cout << c; 
+>it will display garbage

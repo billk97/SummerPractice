@@ -17,6 +17,6 @@ void pointer_example_withTables()
 	int * array = new int[a];
 	std::cout << "table"<<sizeof(table) << std::endl;
 	std::cout << "su_table" << sizeof(sub_table) << std::endl;
-	//
+	
 
 }

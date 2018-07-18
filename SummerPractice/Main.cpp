@@ -7,6 +7,7 @@ int main()
 {
 	pointer_example();
 	pointer_example_withTables();
+	exampleofNEWuse();
 	system("pause");
 	return 0; 
 
