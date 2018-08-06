@@ -27,6 +27,9 @@
     <ClCompile Include="exampleofNEWuse.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ExapleofDinamicTable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Header.h">

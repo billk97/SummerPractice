@@ -8,6 +8,7 @@ int main()
 	pointer_example();
 	pointer_example_withTables();
 	exampleofNEWuse();
+	ExapleofDinamicTable(10);
 	system("pause");
 	return 0; 
 

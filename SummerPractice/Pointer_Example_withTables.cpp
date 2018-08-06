@@ -15,6 +15,15 @@ void pointer_example_withTables()
 	int a = 10;
 	/*this is a dynamic table*/
 	int * array = new int[a];
+	//int  b_array [5];
+	array[1] = 10;
+	/*this is the same as
+	array[0]=1;*/
+	*array = 1;
+	/* this is samthing acceptable but we lose the addres of b_array as a result delete is imposiple */
+	//array = b_array;
+	/*you should allways delete the allocatted space*/
+	delete array;
 	std::cout << "table"<<sizeof(table) << std::endl;
 	std::cout << "su_table" << sizeof(sub_table) << std::endl;
 	

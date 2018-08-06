@@ -3,3 +3,4 @@ void pointer_example();
 void pointer_example_withTables();
 /*this function will give a basic understading of the use of new */
 void exampleofNEWuse();
+void ExapleofDinamicTable(int i);

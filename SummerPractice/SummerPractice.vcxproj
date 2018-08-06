@@ -112,6 +112,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="exampleofNEWuse.cpp" />
+    <ClCompile Include="ExapleofDinamicTable.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="Pointer_Example.cpp" />
     <ClCompile Include="Pointer_Example_withTables.cpp" />
