@@ -5,10 +5,13 @@
 
 int main() 
 {
-	pointer_example();
+	pointer_example();  
 	pointer_example_withTables();
 	exampleofNEWuse();
 	ExapleofDinamicTable(10);
+	/*Function call for wronge value of return statment*/
+	int j = ExampleByValue(3);
+	std::cout << "J: " << j << " i: 3"<< std::endl;
 	system("pause");
 	return 0; 
 
