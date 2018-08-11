@@ -23,4 +23,11 @@
 * keep in mind that in c and c ++ the defult value of a variable is nothing 
 > * int c ;
 > - cout << c; 
->it will display garbage
+> it will display garbage
+
+### By value/By reference 
+
+> * **By value** 
+> (Just like java) 
+> * the value is copied 
+> * if the value is changed inside the the function then the changes can not be saved 
