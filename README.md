@@ -31,3 +31,17 @@
 > (Just like java) 
 > * the value is copied 
 > * if the value is changed inside the the function then the changes can not be saved 
+
+## The New Boston Tutorials
+
+### classes
+> ![screenshot](/Class.png)
+> * class declaration:  class Myclass{};
+> * access spacifire: public:  (allows the to other function and classes to access this class )
+> * see example on code 
+> * creation off an object in order to define which class to call
+
+### constractors
+> * the never have a return type 
+> * How do i  know that it is a constractor?
+> * (Anwser)The class has the same name as the function inside it  
