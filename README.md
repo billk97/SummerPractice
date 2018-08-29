@@ -42,24 +42,24 @@
 > * creation off an object in order to define which class to call
 
 ### constractors
->![screenshot](/constructor.png)
+>![constractors](/constructor.png)
 > * the never have a return type 
 > * How do i  know that it is a constractor?
 > * (Anwser)The class has the same name as the function inside it  
 > * Main use of the constractor is to assing (initialize) values 
 
 ### Unary Scope Resolution Operator ::
-> ![screenshot](/UnaryScopeResolutionOperator)
+> ![Unary](/UnaryScopeResolutionOperator)
 
 ### function Overload
 > * two or more  functions with the same name that can take diferent inputs 
 > * exp [printNumber(int x) printNumber(double x)]
-> * ![screenshot](/FunctionOverloading)
+> * ![function](/FunctionOverloading)
 
 ### Recursion 
 > * a function can call it self
-> * ![screenshot](/Recursion)
+> * ![Recursion](/Recursion)
 
 ### Arrays
 > *  pass an array in a function
-> * ![screenshot](/Array)
+> * ![Arrays](/Array)
