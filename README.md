@@ -42,6 +42,11 @@
 > * creation off an object in order to define which class to call
 
 ### constractors
+>![screenshot](/constructor.png)
 > * the never have a return type 
 > * How do i  know that it is a constractor?
 > * (Anwser)The class has the same name as the function inside it  
+> * Main use of the constractor is to assing (initialize) values 
+
+### Unary Scope Resolution Operator ::
+> ![screenshot](/UnaryScopeResolutionOperator)
