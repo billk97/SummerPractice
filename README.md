@@ -50,3 +50,16 @@
 
 ### Unary Scope Resolution Operator ::
 > ![screenshot](/UnaryScopeResolutionOperator)
+
+### function Overload
+> * two or more  functions with the same name that can take diferent inputs 
+> * exp [printNumber(int x) printNumber(double x)]
+> * ![screenshot](/FunctionOverloading)
+
+### Recursion 
+> * a function can call it self
+> * ![screenshot](/Recursion)
+
+### Arrays
+> *  pass an array in a function
+> * ![screenshot](/Array)
