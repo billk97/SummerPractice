@@ -42,7 +42,7 @@
 > * creation off an object in order to define which class to call
 
 ### constractors
->![constractors](/constructor (6).png)
+> ![constractors](/constructor(6).png)
 > * the never have a return type 
 > * How do i  know that it is a constractor?
 > * (Anwser)The class has the same name as the function inside it  
@@ -63,3 +63,19 @@
 ### Arrays
 > *  pass an array in a function
 > * ![Arrays](/Array.png)
+
+### Pointer 
+> * if you add an integer to a pointer it changes the memory n elements away
+> * expl ( pointer ++;) 
+
+### Arrow Member Selection Operator
+> *  when you use a pointer to acces samething inside of an class you need to use the Arrow Member Selection Operator (->)
+> *  ![Operator](/ArrowMemberSelectionOperator.png)
+
+### Deconstuctor
+> * Runs atomatecly opon the destruction of the constructor
+> * ~class naome
+> * this is a decostructor tha same name witth the class name but with a dilda(~) before
+> * when the programm in finised runing the deconstactor is called
+> * the deconstractor CANT be overloaded, have values ,void or enithing
+> *   ![Deconstuctor1](/Deconstuctor1.png) ![Deconstuctor2](/DecUnstuctor2.png) ![Deconstuctor3](/DecUnstucto3.png) 
