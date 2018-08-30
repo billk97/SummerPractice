@@ -70,7 +70,7 @@
 
 ### Arrow Member Selection Operator
 > *  when you use a pointer to acces samething inside of an class you need to use the Arrow Member Selection Operator (->)
-> *  ![Operator](/ArrowMemberSelectionOperator.png)
+> *  ![Operator](/ArrowMemberSelectionOperator.PNG)
 
 ### Deconstuctor
 > * Runs atomatecly opon the destruction of the constructor
@@ -78,4 +78,4 @@
 > * this is a decostructor tha same name witth the class name but with a dilda(~) before
 > * when the programm in finised runing the deconstactor is called
 > * the deconstractor CANT be overloaded, have values ,void or enithing
-> *   ![Deconstuctor1](/Deconsructor1.png) ![Deconstuctor2](/Decunstructor2.png) ![Deconstuctor3](/Decunstuctor3.png) 
+> *   ![Deconstuctor1](/Deconsructor1.PNG) ![Deconstuctor2](/Decunstructor2.PNG) ![Deconstuctor3](/Decunstuctor3.PNG) 
