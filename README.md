@@ -78,4 +78,4 @@
 > * this is a decostructor tha same name witth the class name but with a dilda(~) before
 > * when the programm in finised runing the deconstactor is called
 > * the deconstractor CANT be overloaded, have values ,void or enithing
-> *   ![Deconstuctor1](/Deconstuctor1.png) ![Deconstuctor2](/DecUnstuctor2.png) ![Deconstuctor3](/DecUnstucto3.png) 
+> *   ![Deconstuctor1](/Deconsructor1.png) ![Deconstuctor2](/Decunstructor2.png) ![Deconstuctor3](/Decunstuctor3.png) 
