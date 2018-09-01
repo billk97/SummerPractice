@@ -79,3 +79,31 @@
 > * when the programm in finised runing the deconstactor is called
 > * the deconstractor CANT be overloaded, have values ,void or enithing
 > *   ![Deconstuctor1](/Deconsructor1.PNG) ![Deconstuctor2](/Decunstructor2.PNG) ![Deconstuctor3](/Decunstuctor3.PNG) 
+
+### CONST IN OBJECTS
+> * the value cannot be changed
+> * constant object need constant functions to call
+> * a constant object cannot call a regular function
+> * (declaration) --> void printSomething () const;
+> *  ()--> void Bill::printSomething () const{}
+> * (call) --> const Bill b1;
+> * b1.printSomething();
+
+### Member Initializers
+> * used to initialliesed  const varialpl
+> * ![ Member Initializers1](/MemberInitializers1.PNG)
+ ![ Member Initializers2](/MemberInitializers2.PNG)
+
+ ### Composition
+ #### Class within other..
+ > *  when Class within other class it needs to be Member Initializers look up 
+ > * ![Composition](/Composition.PNG)
+
+### friend
+> * its a functon that can have acess to an class
+> * the class must give access
+> * the function must be prototiped inside the class 
+> * ![friend](/friend.PNG)
+
+### this 
+> * 
