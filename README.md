@@ -118,6 +118,10 @@
 
 ### inheritance klironomikotita
 
-> * Base class einai o gonaias
+> * Base class einai o gonaias/parent
 > * derived/klironomoysa einai to paidi
 > * ![kl](/kl.PNG) ![kl](/kl1.PNG) ![kl](/kl2.PNG) ![kl](/kl3.PNG)
+> * th constuvtors and deconsructord are setup from the top down in the ierarchy
+> * ![kl](/kl4.PNG)
+
+### 
