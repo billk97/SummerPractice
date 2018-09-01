@@ -106,4 +106,18 @@
 > * ![friend](/friend.PNG)
 
 ### this 
-> * 
+> * its a pointer called this
+> * (*this).h derefercing the pointer 
+> * ![this](/this.PNG)
+
+### Operator Overloading
+>  it allows to change how to use the spacial object 
+> * ![Overloading](/Overloading.PNG)
+> ![Overloading](/Overloading1.PNG)
+> ![Overloading](/Overloading2.PNG)
+
+### inheritance klironomikotita
+
+> * Base class einai o gonaias
+> * derived/klironomoysa einai to paidi
+> * ![kl](/kl.PNG) ![kl](/kl1.PNG) ![kl](/kl2.PNG) ![kl](/kl3.PNG)
